@@ -1,11 +1,16 @@
 # [ Insert your idea here ]
 ## The TeliaSonera Innovation Days 2016
 
+*OBS: Det her er et utkast. Vi har fokusert på innhold, ikke på utseende.*
+
 **SHARE | CREATE | INNOVATE**
 
 Transforming to a Next Generation TelCo takes great ideas. Your ideas!
 Innovation Days will be an event where people from across the organization meet
 to unleash creativity, test and prototype ideas - and have fun!
+
+Follow this web, read your e-mail, or follow our Slack channel to stay
+updated. There is a lot going on!
 
 ## What
 
@@ -26,6 +31,9 @@ evolving them into prototypes:
 Finally the best ideas will be voted and we will see whether we can try to turn
 them into real products / services!
 
+*Notice: We run the first Innovation Days as an experiment and it will be
+thus limited in scope and locations.*
+
 ## Why
 
 A company in the 21st century, with ever more rapidly changing markets, cannot
@@ -35,9 +43,8 @@ stress and limits of daily work life. Innovation Days have three goals:
 
 1. Tap into the vast resource of innovation that our employees are and let them
   work on their latent ideas for new products, services, and improvements
-2. TODO: across-org coop
-3. TODO: change culture - innovation part of culture
-
+2. Let people from across the organization work together
+3. Make innovation a part of our culture
 
 ## When & Where
 
@@ -47,18 +54,20 @@ somewhere outside of the offices, perhaps the Ullevål Business Center.
 
 ## Questions? Feedback?
 
-Contact us:
+## Frequently asked questions
+
+*(Coming soon...)*
+
+## Contact us
 
 * Via e-mail: [innovation-days@teliasonera.com](innovation-days@teliasonera.com)
 * Via Slack: [#innovation-days](https://teliasonera.slack.com/messages/innovation-days/)
 
-## FAQ
+## Coming soon
 
-TODO
+* A blog with updates and inspirational links
+* A web site for registering your ideas and exploring those of others
 
-## TODO Other points
+## TODO: Other points
 
-* This is an experiment limited in location, # ppl; follow-ups will be not
-* Blog coming soon
-* Idea posting site to be added soon
-* Motivational video (e.g. gamification = social impact through innovation)
+* Motivational video (e.g. [gamification][https://www.youtube.com/playlist?list=PLeFf0JnbkFhICC4qwzc4UrRYBWXR15mKB] = social impact through innovation)
