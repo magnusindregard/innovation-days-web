@@ -16,7 +16,7 @@ updated. There is a lot going on!
 
 After a period of preparations and registration, we kick off with a few hours of
 inspirational talks about innovation, product development, and lean startup
-practices from industry experts, open to every employee, spread over several days.
+practices from industry experts, open to every employee.
 
 Then up to 100 interested people from across all departments will meet, share their
 ideas for new products, services, and other innovations, team around the ideas
@@ -28,7 +28,7 @@ evolving them into prototypes:
 3. Present your product, and get your 15 minutes of fame.
    And if that’s not enough: A grand prize!
 
-Finally the best ideas will be voted and we will see whether we can try to turn
+Finally the best ideas will be voted on and we will see whether we can try to turn
 them into real products / services!
 
 *Notice: We run the first Innovation Days as an experiment and it will be
@@ -38,13 +38,13 @@ thus limited in scope and locations.*
 
 A company in the 21st century, with ever more rapidly changing markets, cannot
 survive without innovation. Innovation needs to become a part of our culture
-and thinking - and we need space where we can unleash our ideas, without the
+and thinking - and we need a space where we can unleash our ideas, without the
 stress and limits of daily work life. Innovation Days have three goals:
 
-1. Tap into the vast resource of innovation that our employees are and let them
+1. Let people from across the organization work together
+2. Make innovation a part of our culture
+3. Tap into the vast resource of innovation that our employees are and let them
   work on their latent ideas for new products, services, and improvements
-2. Let people from across the organization work together
-3. Make innovation a part of our culture
 
 ## When & Where
 
@@ -68,6 +68,7 @@ somewhere outside of the offices, perhaps the Ullevål Business Center.
 * A blog with updates and inspirational links
 * A web site for registering your ideas and exploring those of others
 
-## TODO: Other points
+## Innovation? Wat iz thiz?
 
-* Motivational video (e.g. [gamification][https://www.youtube.com/playlist?list=PLeFf0JnbkFhICC4qwzc4UrRYBWXR15mKB] = social impact through innovation)
+<!-- The Piano Stairs gamification project: -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2lXh2n0aPyw?list=PLeFf0JnbkFhICC4qwzc4UrRYBWXR15mKB" frameborder="0" allowfullscreen></iframe>
